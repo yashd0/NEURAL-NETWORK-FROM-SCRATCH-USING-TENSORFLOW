@@ -3,17 +3,19 @@
 
 
 Neural-Network-from-Scratch-in-TensorFlow
-Welcome to Neural Network from Scratch in TensorFlow! In this 2-hours long project-based course, you will learn how to implement a Neural Network model in TensorFlow using its core functionality (i.e. without the help of a high level API like Keras). You will also implement the gradient descent algorithm with the help of TensorFlow's automatic differentiation. While it’s easier to get started with TensorFlow with the Keras API, it’s still worth understanding how a slightly lower level implementation might work in tensorﬂow, and this project will give you a great starting point for the same.
+Welcome to Neural Network from Scratch in TensorFlow! In this project will implement a Neural Network model in TensorFlow using its core functionality (i.e. without the help of a high level API like Keras). 
 
-Course Objectives In this course, we are going to focus on two learning objectives:
+will also implement the gradient descent algorithm with the help of TensorFlow's automatic differentiation. While it’s easier to get started with TensorFlow with the Keras API, it’s still worth understanding how a slightly lower level implementation might work in tensorﬂow, and this project will give you a great starting point for the same.
+
+ course, we are going to focus on two learning objectives:
 
 How to implement a neural network model from scratch using TensorFlow.
 
 Solving a multi-class classification problem using the neural network implementation.
 
-By the end of this course, you will be able to implement a Neural Network model in TensorFlow using its core functionality. You will also implement the gradient descent algorithm with the help of TensorFlow's automatic differentiation. Finally, you will be able to use this implementation to solve a multi-class classification problem.
+By the end of this  will be able to implement a Neural Network model in TensorFlow using its core functionality. You will also implement the gradient descent algorithm with the help of TensorFlow's automatic differentiation. Finally, you will be able to use this implementation to solve a multi-class classification problem.
 
-Course Structure This course is divided into 3 parts:
+
 
 Course Overview: This introductory reading material.
 
