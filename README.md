@@ -2,7 +2,6 @@
 
 
 
-Neural-Network-from-Scratch-in-TensorFlow
 Welcome to Neural Network from Scratch in TensorFlow! In this project will implement a Neural Network model in TensorFlow using its core functionality (i.e. without the help of a high level API like Keras). 
 
 will also implement the gradient descent algorithm with the help of TensorFlow's automatic differentiation. While it’s easier to get started with TensorFlow with the Keras API, it’s still worth understanding how a slightly lower level implementation might work in tensorﬂow, and this project will give you a great starting point for the same.
